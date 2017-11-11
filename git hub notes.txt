@@ -1,0 +1,11 @@
+To set up a eclipse project to git hub:
+	find your project in the files by going to users
+	find your user that is begin used and find workspace
+	got into the project you are pushing to git hub
+	open git bash by right clicking
+	to set up the reopsitory linked to the project you do git init
+	git remote origin the link in the git hub repository page
+	do git status to check if you have something to put on git hub
+	then git add . to add the files to push
+	then you do commit -m "commit message here" so people will see what you have changed
+	then you use git push to push your changes to the repository
