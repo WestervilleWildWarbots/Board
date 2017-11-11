@@ -1,4 +1,4 @@
-To set up a eclipse project to git hub:
+To set up a eclipse project to git hub: 3
 	find your project in the files by going to users
 	find your user that is begin used and find workspace
 	got into the project you are pushing to git hub
